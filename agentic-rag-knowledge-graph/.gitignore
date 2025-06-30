@@ -196,3 +196,12 @@ secrets/
 *.key
 *.pem
 *.crt
+
+# Miniconda
+miniconda3/
+miniconda.sh
+
+# Docker volumes
+postgres_data/
+neo4j_data/
+ollama_data/
